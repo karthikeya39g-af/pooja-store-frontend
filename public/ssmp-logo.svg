@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768" role="img" aria-label="Sri Sai Manjunatha Pooja Store logo">
+  <defs>
+    <radialGradient id="field" cx="50%" cy="42%" r="62%"><stop stop-color="#f54a00"/><stop offset=".72" stop-color="#d82400"/><stop offset="1" stop-color="#9f1600"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff56b"/><stop offset=".38" stop-color="#ffc400"/><stop offset=".7" stop-color="#ff8c00"/><stop offset="1" stop-color="#ffe345"/></linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a84900"/><stop offset=".22" stop-color="#ffb000"/><stop offset=".5" stop-color="#fff05a"/><stop offset=".78" stop-color="#ff9a00"/><stop offset="1" stop-color="#8f3200"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78c900"/><stop offset=".45" stop-color="#168700"/><stop offset="1" stop-color="#064c00"/></linearGradient>
+    <linearGradient id="flame" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff35b"/><stop offset=".5" stop-color="#ff8b00"/><stop offset="1" stop-color="#b21a00"/></linearGradient>
+    <path id="lowerArc" d="M 100 488 A 284 284 0 0 0 668 488"/>
+    <g id="petal"><path d="M384 382 C361 348 361 319 384 286 C407 319 407 348 384 382Z"/><path d="M384 373 C375 348 376 329 384 311 C392 329 393 348 384 373Z" opacity=".5"/></g>
+    <g id="smallPetal"><path d="M384 290 C370 271 371 254 384 236 C397 254 398 271 384 290Z"/></g>
+  </defs>
+  <circle cx="384" cy="384" r="343" fill="url(#field)" stroke="#b82100" stroke-width="5"/>
+  <circle cx="384" cy="384" r="331" fill="none" stroke="url(#gold)" stroke-width="10"/>
+  <circle cx="384" cy="384" r="319" fill="none" stroke="#fff18a" stroke-width="2"/>
+  <circle cx="384" cy="384" r="299" fill="none" stroke="#ffb600" stroke-width="3"/>
+  <circle cx="384" cy="384" r="290" fill="none" stroke="#ffdc20" stroke-width="1.5" opacity=".8"/>
+  <!-- fine radial mandala lattice -->
+  <g fill="none" stroke="#ffc21a" stroke-width="3" opacity=".8">
+    <circle cx="384" cy="384" r="184"/><circle cx="384" cy="384" r="165"/><circle cx="384" cy="384" r="140"/>
+    <circle cx="384" cy="384" r="118"/><circle cx="384" cy="384" r="94"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(30 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(60 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(90 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(120 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(150 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(180 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(210 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(240 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(270 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(300 384 384)"/>
+    <path d="M384 180 C434 236 434 310 384 384 C334 310 334 236 384 180Z" transform="rotate(330 384 384)"/>
+  </g>
+  <g fill="#ffcc16" opacity=".9">
+    <use href="#petal"/><use href="#petal" transform="rotate(30 384 384)"/><use href="#petal" transform="rotate(60 384 384)"/><use href="#petal" transform="rotate(90 384 384)"/><use href="#petal" transform="rotate(120 384 384)"/><use href="#petal" transform="rotate(150 384 384)"/><use href="#petal" transform="rotate(180 384 384)"/><use href="#petal" transform="rotate(210 384 384)"/><use href="#petal" transform="rotate(240 384 384)"/><use href="#petal" transform="rotate(270 384 384)"/><use href="#petal" transform="rotate(300 384 384)"/><use href="#petal" transform="rotate(330 384 384)"/>
+    <use href="#smallPetal"/><use href="#smallPetal" transform="rotate(30 384 384)"/><use href="#smallPetal" transform="rotate(60 384 384)"/><use href="#smallPetal" transform="rotate(90 384 384)"/><use href="#smallPetal" transform="rotate(120 384 384)"/><use href="#smallPetal" transform="rotate(150 384 384)"/><use href="#smallPetal" transform="rotate(180 384 384)"/><use href="#smallPetal" transform="rotate(210 384 384)"/><use href="#smallPetal" transform="rotate(240 384 384)"/><use href="#smallPetal" transform="rotate(270 384 384)"/><use href="#smallPetal" transform="rotate(300 384 384)"/><use href="#smallPetal" transform="rotate(330 384 384)"/>
+  </g>
+  <!-- ornamental leaves behind kalash -->
+  <g stroke="#f7dd14" stroke-width="2">
+    <path d="M359 375 C300 295 257 244 192 217 C207 292 250 339 359 375Z" fill="url(#leaf)"/>
+    <path d="M363 371 C335 308 294 263 192 217 M324 324l-43-1m65 27-44-3m8-45-2 31m-33-71 4 34" fill="none"/>
+    <path d="M409 375 C468 295 511 244 576 217 C561 292 518 339 409 375Z" fill="url(#leaf)"/>
+    <path d="M405 371 C433 308 474 263 576 217 M444 324l43-1m-65 27 44-3m-8-45-2 31m33-71-4 34" fill="none"/>
+    <path d="M354 390 C290 362 235 337 184 282 C267 281 317 317 354 390Z" fill="url(#leaf)"/>
+    <path d="M414 390 C478 362 533 337 584 282 C501 281 451 317 414 390Z" fill="url(#leaf)"/>
+    <path d="M354 390l-170-108m100 64-4-29m39 50-28-1m63 24-15-27m-91-65 30 9m-60-19 4 24" fill="none"/>
+    <path d="M414 390l170-108m-100 64 4-29m-39 50 28-1m-63 24 15-27m91-65-30 9m60-19-4 24" fill="none"/>
+  </g>
+  <!-- sacred flame -->
+  <path d="M384 159 C409 201 446 237 462 284 C487 359 441 407 384 410 C327 407 281 359 306 284 C322 237 359 201 384 159Z" fill="#8b2600" stroke="#6f1700" stroke-width="5"/>
+  <path d="M384 174 C402 224 436 261 443 307 C453 357 423 389 384 395 C345 389 315 357 325 307 C332 261 366 224 384 174Z" fill="url(#flame)" stroke="#ffd12a" stroke-width="4"/>
+  <path d="M384 207 C394 250 416 279 414 318 C413 348 400 369 384 377 C368 369 355 348 354 318 C352 279 374 250 384 207Z" fill="#ffdc28" opacity=".82"/>
+  <path d="M384 230v133m-18-102 18 35m18-35-18 35m-26-4 26 42m26-42-26 42" stroke="#fff47a" stroke-width="2" opacity=".8"/>
+  <!-- brass kalash body -->
+  <path d="M310 430 C307 405 327 389 350 378 C360 364 368 352 384 352 C400 352 408 364 418 378 C441 389 461 405 458 430Z" fill="url(#pot)" stroke="#783000" stroke-width="6"/>
+  <path d="M337 390 Q384 409 431 390M323 408 Q384 426 445 408" fill="none" stroke="#fff279" stroke-width="5"/>
+  <path d="M284 429 Q384 414 484 429 L469 466 Q384 480 299 466Z" fill="url(#gold)" stroke="#733000" stroke-width="6"/>
+  <path d="M299 438 Q384 453 469 438M295 455 Q384 470 473 455" fill="none" stroke="#fff276" stroke-width="4"/>
+  <path d="M310 468 C291 497 281 529 287 557 C295 600 332 622 384 626 C436 622 473 600 481 557 C487 529 477 497 458 468 C418 482 350 482 310 468Z" fill="url(#pot)" stroke="#713000" stroke-width="7"/>
+  <path d="M303 490 Q384 510 465 490M290 548 Q384 570 478 548M302 592 Q384 613 466 592" fill="none" stroke="#fff077" stroke-width="5"/>
+  <path d="M325 481 Q384 498 443 481M312 575 Q384 596 456 575" fill="none" stroke="#9b3b00" stroke-width="3"/>
+  <!-- marigold garland -->
+  <path d="M270 448 Q384 500 498 448M278 481 Q384 525 490 481" fill="none" stroke="#176900" stroke-width="8"/>
+  <g fill="#ffb600" stroke="#ffe92b" stroke-width="2">
+    <g transform="translate(270 449)"><circle r="18"/><circle r="10" fill="#ff7100"/></g><g transform="translate(303 464)"><circle r="19"/><circle r="10" fill="#ff7100"/></g><g transform="translate(339 474)"><circle r="20"/><circle r="10" fill="#ff7100"/></g><g transform="translate(384 478)"><circle r="21"/><circle r="10" fill="#ff7100"/></g><g transform="translate(429 474)"><circle r="20"/><circle r="10" fill="#ff7100"/></g><g transform="translate(465 464)"><circle r="19"/><circle r="10" fill="#ff7100"/></g><g transform="translate(498 449)"><circle r="18"/><circle r="10" fill="#ff7100"/></g>
+    <g transform="translate(300 493)"><circle r="12"/><circle r="6" fill="#ff7100"/></g><g transform="translate(329 503)"><circle r="13"/><circle r="6" fill="#ff7100"/></g><g transform="translate(357 509)"><circle r="13"/><circle r="6" fill="#ff7100"/></g><g transform="translate(384 511)"><circle r="14"/><circle r="7" fill="#ff7100"/></g><g transform="translate(411 509)"><circle r="13"/><circle r="6" fill="#ff7100"/></g><g transform="translate(439 503)"><circle r="13"/><circle r="6" fill="#ff7100"/></g><g transform="translate(468 493)"><circle r="12"/><circle r="6" fill="#ff7100"/></g>
+  </g>
+  <!-- top lettering -->
+  <text x="384" y="191" text-anchor="middle" font-family="Georgia,serif" font-size="126" font-weight="bold" letter-spacing="-8" fill="#fff5a0" stroke="#8f2500" stroke-width="7" paint-order="stroke">SSMP</text>
+  <text font-family="Georgia,serif" font-weight="bold" font-size="34" letter-spacing="1.5" fill="#fff8d4" stroke="#782100" stroke-width="2" paint-order="stroke"><textPath href="#lowerArc" startOffset="50%" text-anchor="middle">SRI SAI MANJUNATHA POOJA STORE</textPath></text>
+  <!-- base emblem -->
+  <path d="M285 624 Q384 644 483 624 L470 644 Q384 659 298 644Z" fill="url(#gold)" stroke="#763000" stroke-width="5"/>
+  <path d="M315 648 Q384 660 453 648 L465 670 Q384 687 303 670Z" fill="url(#pot)" stroke="#763000" stroke-width="5"/>
+  <text x="384" y="642" text-anchor="middle" font-family="Georgia,serif" font-size="57" font-weight="bold" fill="#ce0000" stroke="#fff27a" stroke-width="2" paint-order="stroke">ॐ</text>
+  <!-- outer leaf accents -->
+  <g fill="url(#gold)" stroke="#fff06a" stroke-width="2">
+    <path d="M126 208q37 8 38 45-37-8-38-45zm-27 61q31 9 32 39-31-7-32-39zm-14 73q29 8 29 35-28-6-29-35zm2 65q29 7 28 34-28-5-28-34z"/>
+    <path d="M642 208q-37 8-38 45 37-8 38-45zm27 61q-31 9-32 39 31-7 32-39zm14 73q-29 8-29 35 28-6 29-35zm-2 65q-29 7-28 34 28-5 28-34z"/>
+    <path d="M78 454q30-29 58 0-29 31-58 0zm612 0q-30-29-58 0 29 31 58 0z"/>
+  </g>
+</svg>
